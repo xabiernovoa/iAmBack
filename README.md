@@ -17,7 +17,7 @@ Este script Bash permite copiar automáticamente carpetas específicas desde dis
 ## 📂 Estructura de uso
 
 ```bash
-./syncgvfs.sh archivo_con_rutas.txt
+./iAmBack.sh archivo_con_rutas.txt
 ```
 archivo_con_rutas.txt: Archivo de texto con una ruta por línea relativa al dispositivo GVFS montado. Ejemplo:
 
